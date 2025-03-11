@@ -47,7 +47,7 @@ In your init.lua, `require` the `"pack"` module with a list of packages, like:
 
 ```lua
 require("pack").register({
-    "savq/paq-nvim", -- Let Paq manage itself
+    "saccarosium/pack.nvim", -- Let Pack manage itself
 
     "neovim/nvim-lspconfig",
 
